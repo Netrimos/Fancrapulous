@@ -1,2 +1,2 @@
 /*This is merely a placeholder*/
-var version = .001;
+var version = .0001;
